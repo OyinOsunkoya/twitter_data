@@ -9,7 +9,7 @@ I gathered data by using the twitter archive for weratedogs twitter account, twi
 The gathered data was cleaned and exploratory analysis is performed.
 
 ### Files used
-twitter-archive-enhanced.csv
+twitter-archive-enhanced.csv<br>
 image_predictions.tsv
 
 ### Results summary
