@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+tweepy
+json
+os
+matplotlib.pyplot
